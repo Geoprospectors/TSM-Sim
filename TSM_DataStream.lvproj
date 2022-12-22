@@ -12,8 +12,16 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="CMD-ME record.vi" Type="VI" URL="../CMD-ME record.vi"/>
 		<Item Name="CMD-ME stream.vi" Type="VI" URL="../CMD-ME stream.vi"/>
+		<Item Name="gVar_ECa1.vi" Type="VI" URL="../gVar_ECa1.vi"/>
+		<Item Name="gVar_ECa2.vi" Type="VI" URL="../gVar_ECa2.vi"/>
+		<Item Name="gVar_ECa3.vi" Type="VI" URL="../gVar_ECa3.vi"/>
+		<Item Name="gVar_ECa4.vi" Type="VI" URL="../gVar_ECa4.vi"/>
+		<Item Name="Position_TypDef.ctl" Type="VI" URL="../Position_TypDef.ctl"/>
+		<Item Name="read_COM_Port.vi" Type="VI" URL="../read_COM_Port.vi"/>
+		<Item Name="SensorData_TypDef.ctl" Type="VI" URL="../SensorData_TypDef.ctl"/>
 		<Item Name="SWAT-TSM record.vi" Type="VI" URL="../SWAT-TSM record.vi"/>
 		<Item Name="TSM_DataStream.vi" Type="VI" URL="../TSM_DataStream.vi"/>
+		<Item Name="TSM_read_hex_data.vi" Type="VI" URL="../TSM_read_hex_data.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
