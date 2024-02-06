@@ -18,6 +18,7 @@
 		<Item Name="gVar_ECa4.vi" Type="VI" URL="../gVar_ECa4.vi"/>
 		<Item Name="Position_TypDef.ctl" Type="VI" URL="../Position_TypDef.ctl"/>
 		<Item Name="read_COM_Port.vi" Type="VI" URL="../read_COM_Port.vi"/>
+		<Item Name="readCOM_Data.vi" Type="VI" URL="../readCOM_Data.vi"/>
 		<Item Name="SensorData_TypDef.ctl" Type="VI" URL="../SensorData_TypDef.ctl"/>
 		<Item Name="SWAT-TSM record.vi" Type="VI" URL="../SWAT-TSM record.vi"/>
 		<Item Name="TSM_DataStream.vi" Type="VI" URL="../TSM_DataStream.vi"/>
@@ -88,7 +89,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9FB15E49-79DC-4711-8A25-E3604C1135B8}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">TSM_DataStream.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../build/NI_AB_PROJECTNAME.exe</Property>
